@@ -1,6 +1,6 @@
 
 
-<h3 align="center"><img height="40" src="https://cdn3.emoji.gg/emojis/4592-skeleton-dancin.gif"></h1>
+<div align="center"><img height="40" src="https://cdn3.emoji.gg/emojis/4592-skeleton-dancin.gif"></div>
 
 </br>
 <p align="center">
