@@ -5,11 +5,14 @@
 </br>
 <p align="center">
 <samp>
-I'm Brisson. I am an Android developer passionate about creating mobile applications that enhance people's lives.
+I'm Brisson. I am an Android developer.
 </samp>
 </br></br>
 <samp>
-As an Android developer, my research interests are centered around the development of mobile applications and solutions for Android devices, including technologies such as Kotlin and Jetpack. Additionally, I am interested in exploring the development of backend solutions using Kotlin and frameworks such as Ktor.
+As an experienced Android developer, I've spent years honing my craft and creating applications that are both
+functional and fun to use. My passion for coding started at a young age, and I've never looked back since. When
+I'm not working on projects, you can find me tinkering with new technologies or reading up on the latest industry
+trends.
 </samp>
 </br></br>
 <samp>
