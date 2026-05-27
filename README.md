@@ -5,7 +5,7 @@
 </br>
 <p align="center">
 <samp>
-I'm Brisson. I am a stupid developer that likes to learn new things.
+Call me Brisson.
 <p align="center">
 <a href="mailto:gbrisson98@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/guibrisson/">Linkedin</a>
 </p>
